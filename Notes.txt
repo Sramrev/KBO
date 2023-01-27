@@ -1,0 +1,8 @@
+For the planets positions:
+API SOURCE: NASA/JPL Horizons API
+
+Range for libration particles:
+
+    MPC:
+    3:2 - 39,40
+    2:1 - 47,48.5
